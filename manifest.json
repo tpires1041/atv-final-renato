@@ -1,0 +1,21 @@
+{
+    "name": "atv-final-renato",
+    "short_name": "atv-renato",
+    "icons": [
+      {
+        "src": "images/qrcode256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "images/qrcode512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "lang": "pt-BR",
+    "display": "standalone",
+    "start_url": "/index.html",
+    "theme_color": "white",
+    "background_color": "white"
+  }
